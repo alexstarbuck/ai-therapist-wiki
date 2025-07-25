@@ -1,13 +1,14 @@
 ---
 id: 02-ai-therapist-differentiation
 slug: 02-ai-therapist-differentiation
-title: AI Therapist - Differentiation
+title: Differentiation
 sidebar_label: Differentiation
-
-tags: [eu, gajger]
-parent:
-source: ""
-date_created: 2025-07-24 20:52
+tags:
+  - eu
+  - gajger
+parent: 
+source: 
+date_created: 2025-07-25 18:35
 ---
 [← Back to MoC](/docs/)
 

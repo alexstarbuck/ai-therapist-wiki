@@ -1,13 +1,14 @@
 ---
 id: 04-ai-therapist-components-vendors
 slug: 04-ai-therapist-components-vendors
-title: AI Therapist - Components Vendors
+title: Components Vendors
 sidebar_label: Components vendors
-
-tags: [eu, gajger]
-parent:
-source: ""
-date_created: 2025-07-24 20:54
+tags:
+  - eu
+  - gajger
+parent: 
+source: 
+date_created: 2025-07-25 18:44
 ---
 [← Back to MoC](/docs/)
 

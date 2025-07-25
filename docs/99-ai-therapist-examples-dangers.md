@@ -1,13 +1,14 @@
 ---
 id: 99-ai-therapist-examples-dangers
 slug: 99-ai-therapist-examples-dangers
-title: AI Therapist - Examples of Danger
+title: Examples of Danger in AI therapy
 sidebar_label: Dangers
-
-tags: [eu, gajger]
-parent:
-source: ""
-date_created: 2025-07-24 20:55
+tags:
+  - eu
+  - gajger
+parent: 
+source: 
+date_created: 2025-07-25 18:47
 ---
 [← Back to MoC](/docs/)
 

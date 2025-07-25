@@ -1,16 +1,15 @@
 ---
 id: index
 slug: /
-title: AI Avatar Psychotherapist Assistant Wiki
-sidebar_label: Index
+title: AI Therapist Assistant - Wiki
+sidebar_label: index
 tags:
   - eu
   - gajger
-parent: ""
-source: ""
-date_created: 2025-07-24 20:25
+parent: 
+source: 
+date_created: 2025-07-25 18:50
 ---
-
 # AI Therapist Assistant - Map of Content
 
 Welcome to the AI Therapist Assistant Wiki. Choose your poison:

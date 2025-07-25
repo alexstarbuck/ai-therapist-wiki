@@ -2,12 +2,13 @@
 id: definitions-irb-review
 slug: definitions-irb-review
 title: Definitions - IRB Review
-sidebar_label: IRB review
-
-tags: [eu, gajger]
-parent:
-source: ""
-date_created: 2025-07-24 20:57
+sidebar_label: IRB Review
+tags:
+  - eu
+  - gajger
+parent: 
+source: 
+date_created: 2025-07-25 18:49
 ---
 [← Back to MoC](/docs/)
 

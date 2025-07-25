@@ -2,12 +2,13 @@
 id: definitions-hipaa-compliance
 slug: definitions-hipaa-compliance
 title: Definitions - HIPAA Compliance
-sidebar_label: HIPAA compliance
-
-tags: [eu, gajger]
-parent:
-source: ""
-date_created: 2025-07-24 20:57
+sidebar_label: HIPAA Compliance
+tags:
+  - eu
+  - gajger
+parent: 
+source: 
+date_created: 2025-07-25 18:49
 ---
 [← Back to MoC](/docs/)
 

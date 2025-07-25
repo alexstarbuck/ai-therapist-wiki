@@ -1,13 +1,14 @@
 ---
 id: 03-ai-therapist-competition
 slug: 03-ai-therapist-competition
-title: AI Therapist - Competition
+title: Competition
 sidebar_label: Competition
-
-tags: [eu, gajger]
-parent:
-source: ""
-date_created: 2025-07-24 20:54
+tags:
+  - eu
+  - gajger
+parent: 
+source: 
+date_created: 2025-07-25 18:44
 ---
 [← Back to MoC](/docs/)
 

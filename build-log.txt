@@ -1,0 +1,20 @@
+
+> ai-therapist-wiki@0.0.0 build
+> docusaurus build
+
+[INFO] [en] Creating an optimized production build...
+[webpackbar] ℹ Compiling Client
+[webpackbar] ℹ Compiling Server
+[webpackbar] ✔ Server: Compiled successfully in 7.47s
+[webpackbar] ✔ Client: Compiled successfully in 11.66s
+[WARNING] Docusaurus found broken links!
+
+Please check the pages of your site in the list below, and make sure you don't reference any path that does not exist.
+Note: it's possible to ignore broken links with the 'onBrokenLinks' Docusaurus configuration, and let the build pass.
+
+Exhaustive list of all broken links found:
+- Broken link on source page path = /ai-therapist-wiki/:
+   -> linking to /ai-therapist-wiki/docs/intro
+
+[SUCCESS] Generated static files in "build".
+[INFO] Use `npm run serve` command to test your build locally.

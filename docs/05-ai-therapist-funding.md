@@ -1,12 +1,14 @@
 ---
 id: 05-ai-therapist-funding
 slug: 05-ai-therapist-funding
-title: AI Therapist - Funding
+title: Funding
 sidebar_label: Funding
-
-tags: [eu, gajger]
-source: ""
-date_created: 2025-07-24 20:55
+tags:
+  - eu
+  - gajger
+parent: 
+source: 
+date_created: 2025-07-25 18:44
 ---
 [← Back to MoC](/docs/)
 
