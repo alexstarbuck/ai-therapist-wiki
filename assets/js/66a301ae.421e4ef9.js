@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_therapist_wiki=self.webpackChunkai_therapist_wiki||[]).push([[8948],{7795:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/ai-therapist-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

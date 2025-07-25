@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_therapist_wiki=self.webpackChunkai_therapist_wiki||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/ai-therapist-wiki/blog","blogTitle":"Blog","authorsListPath":"/ai-therapist-wiki/blog/authors"}')}}]);

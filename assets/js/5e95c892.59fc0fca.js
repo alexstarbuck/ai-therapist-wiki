@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_therapist_wiki=self.webpackChunkai_therapist_wiki||[]).push([[9647],{7121:(e,s,r)=>{r.r(s),r.d(s,{default:()=>n});r(6540);var a=r(4164),i=r(7559),t=r(5500),u=r(2831),c=r(1656),h=r(4848);function n(e){return(0,h.jsx)(t.e3,{className:(0,a.A)(i.G.wrapper.docsPages),children:(0,h.jsx)(c.A,{children:(0,u.v)(e.route.routes)})})}}}]);
