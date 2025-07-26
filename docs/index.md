@@ -14,12 +14,15 @@ date_created: 2025-07-25 18:50
 
 Welcome to the AI Therapist Assistant Wiki. Choose your poison:
 
-- [General Description](/docs/01-ai-therapist-general-description)
-- [Differentiation](/docs/02-ai-therapist-differentiation)
-- [Competition](/docs/03-ai-therapist-competition)
-- [Components Vendors](/docs/04-ai-therapist-components-vendors)
-- [Funding](/docs/05-ai-therapist-funding)
-- [Examples of dangers in AI therapy](/docs/99-ai-therapist-examples-dangers)
-- [Definitions: IRB Review](/docs/definitions-irb-review)
-- [Definitions: HIPAA Compliance](/docs/definitions-hipaa-compliance)
-- [Definitions: DHAF Safety Rating](/docs/definitions-dhaf-safety-rating)
+- [General Description](./01-ai-therapist-general-description.md)
+- [Differentiation](./02-ai-therapist-differentiation.md)
+- [Competition](./03-ai-therapist-competition.md)
+- [Components Vendors](./04-ai-therapist-components-vendors.md)
+- [Funding](./05-ai-therapist-funding.md)
+- [99 Ai Therapist Examples Dangers](./99-ai-therapist-examples-dangers.md)
+- [Definitions - Dhaf Safety Rating](./definitions-dhaf-safety-rating.md)
+- [Definitions - HIPAA Compliance](./definitions-hipaa-compliance.md)
+- [Definitions - IRB Review](./definitions-irb-review.md)
+- [Instructions For Publishing](./instructions-for-publishing.md)
+
+

@@ -1,6 +1,6 @@
 ---
 id: 04-ai-therapist-components-vendors
-slug: 04-ai-therapist-components-vendors
+slug: components-vendors
 title: Components Vendors
 sidebar_label: Components vendors
 tags:
@@ -10,34 +10,29 @@ parent:
 source: 
 date_created: 2025-07-25 18:44
 ---
-[← Back to MoC](/docs/)
+[← Back to MoC](./index.md)
 
 ---
 ## Avatar as a Service
 
 1. **HeyGen**
     - Generates **photo-realistic avatars** from user photos/videos using its Phoenix model.
-    - Comes with API support, identity verification, multilingual capabilities, and moderation workflows [Wikipedia](https://en.wikipedia.org/wiki/HeyGen)[banuba.com](https://www.tavus.io/post/avatar-api).
-        
+    - Comes with API support, identity verification, multilingual capabilities, and moderation workflows.
 2. **Synthesia**
     - Industry-leading enterprise deepfake video avatar platform.
-    - They license real actors and produce highly realistic avatars with expressive speech and body language [Shopify](https://www.shopify.com/blog/best-ai-avatar-generator?utm_source=chatgpt.com)[The Guardian](https://www.theguardian.com/technology/2025/apr/10/ai-avatar-generator-synthesia-video-footage-shutterstock?utm_source=chatgpt.com).
-        
+    - They license real actors and produce highly realistic avatars with expressive speech and body language;
 3. **RAVATAR**
     - Offers real-time **3D AI avatars** with natural speech, expressions, and on-premise options.
     - Designed for high-security and regulated environments like healthcare [Ravatar.com](https://ravatar.com/).
-        
 4. **UneeQ Digital Humans**
     - Specializes in realistic video-avatar generation for enterprise use cases (e.g. training, customer support) [Shopify](https://www.shopify.com/blog/best-ai-avatar-generator)
-        
 5. **Avatar SDK / Banuba / Avaturn / in3D / Ready Player Me**
     - These produce **3D avatars** from selfies with customizable visual appearance—ideal for lip-syncing and real-time expression [Avatarsdk.com](https://avatarsdk.com/).
-        
 6. **A2E.ai**
     - API-first platform for generating avatars and lip-synched videos from text or voice [a2e.ai](https://www.a2e.ai/)
 
 ---
-## Which Fits Your Needs?
+## Which Fits Our Needs?
 
 |Feature|HeyGen / Synthesia / RAVATAR / UneeQ|Avatar SDKs (Banuba, ready offers)|
 |---|---|---|
@@ -50,17 +45,17 @@ date_created: 2025-07-25 18:44
 ---
 ## Strategic Advice
 
-- For **clinical-grade, fully expressive avatars**, evaluate contracts with **RAVATAR**, **HeyGen**, or **Synthesia**—they deliver the high-fidelity interactivity you need.
-    
-- For a more **DIY-friendly route**, consider integrating **Avatar SDKs** like Banuba or Avaturn to build a basic avatar, then layer your voice, emotion, and behavioral pipeline on top.
+- For **clinical-grade, fully expressive avatars**, evaluate contracts with **RAVATAR**, **HeyGen**, or **Synthesia**—they deliver the high-fidelity interactivity we need.
+- For a more **DIY-friendly route**, we should consider integrating **Avatar SDKs** like Banuba or Avaturn to build a basic avatar, then layer our voice, emotion, and behavioral pipeline on top.
 
 ---
 ## Next Steps
 
-- **Identify** which features matter most: photo-realism, real-time response, privacy, control.
-- **Request demos or PoCs** from 1–2 providers (e.g., RAVATAR for real-time, HeyGen for rapid prototyping).
-- **Evaluate costs and integration effort**, including licensing, hosting, and data privacy obligations.
-- Once you choose a partner: **prototype an avatar-as-a-service flow**, hook in your NLP + therapy logic, and validate with your institutional partners (Faculty + Hospital).
+- **Identify** which features matter most: photo-realism, real-time response, privacy, control;
+- **Request demos or PoCs** from 1–2 providers (e.g., RAVATAR for real-time, HeyGen for rapid prototyping);
+- **Evaluate costs and integration effort**, including licensing, hosting, and data privacy obligations;
+- Once we choose a partner: **prototype an avatar-as-a-service flow**, hook in our NLP + therapy logic, and validate with our institutional partners (Faculty + Hospital);
 
 ---
 ## Related
+[Funding](05-ai-therapist-funding.md)

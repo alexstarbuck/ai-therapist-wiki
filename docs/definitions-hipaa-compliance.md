@@ -10,7 +10,7 @@ parent:
 source: 
 date_created: 2025-07-25 18:49
 ---
-[← Back to MoC](/docs/)
+[← Back to MoC](./index.md)
 
 ---
 
@@ -36,4 +36,3 @@ Who needs to be HIPAA compliant? 
 
 ---
 ## Related
-[[03-ai-therapist-competition]]

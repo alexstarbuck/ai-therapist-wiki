@@ -1,6 +1,6 @@
 ---
 id: 05-ai-therapist-funding
-slug: 05-ai-therapist-funding
+slug: funding
 title: Funding
 sidebar_label: Funding
 tags:
@@ -8,9 +8,9 @@ tags:
   - gajger
 parent: 
 source: 
-date_created: 2025-07-25 18:44
+date_created: 2025-07-26 13:20
 ---
-[← Back to MoC](/docs/)
+[← Back to MoC](./index.md)
 
 ---
 ## EU Funding Program
@@ -28,3 +28,4 @@ date_created: 2025-07-25 18:44
 
 ---
 ## Related
+[Examples of danger](99-ai-therapist-examples-dangers.md)

@@ -1,6 +1,6 @@
 ---
 id: 03-ai-therapist-competition
-slug: 03-ai-therapist-competition
+slug: competition
 title: Competition
 sidebar_label: Competition
 tags:
@@ -8,9 +8,9 @@ tags:
   - gajger
 parent: 
 source: 
-date_created: 2025-07-25 18:44
+date_created: 2025-07-26 13:13
 ---
-[← Back to MoC](/docs/)
+[← Back to MoC](./index.md)
 
 ---
 ## AI-Powered Mental Health Platforms
@@ -24,11 +24,11 @@ date_created: 2025-07-25 18:44
 		- "*Too often, people don’t feel supported—because they aren’t*";
 		- Detects potentially "concerning" language;
 		- Privacy and safety:
-			- [[definitions-hipaa-compliance]] compliant;
-			- [[definitions-irb-review]] for all clinical studies;
-			- [[definitions-dhaf-safety-rating]] (ORCHA);
+			- [definitions-hipaa-compliance](definitions-hipaa-compliance.md) compliant;
+			- [definitions-irb-review](definitions-irb-review.md) for all clinical studies;
+			- [definitions-dhaf-safety-rating](definitions-dhaf-safety-rating.md) (ORCHA);
 			- Mozilla privacy rating;
-			- [[SOC 2 Type 2 examined]] with zero exceptions;
+			
 ##### User testing
 - could not test, waiting list on the website;
 
@@ -46,7 +46,7 @@ date_created: 2025-07-25 18:44
 - Proper startup, 2 people + a lot of advisors;
 - Funded by 2 VCs;
 - HEAVILY gamified, very low threshold of free features;
-- [[ai-therapist-competition-earkick-1.PNG | screenshot 1]], [[ai-therapist-competition-earkick-2.PNG  | screenshot 2]], [[ai-therapist-competition-earkick-3.PNG | screenshot 3]], [[ai-therapist-competition-earkick-4.PNG | screenshot 4]], [[ai-therapist-competition-earkick-5.PNG  | screenshot 5]];
+
 ##### User testing
 - could not test, waiting list on the website;
 
@@ -55,7 +55,7 @@ date_created: 2025-07-25 18:44
 - Mobile app, in-app purchases;
 - Uses evidence-based CBT techniques to provide 24/7 mental health support;
 - Highly accessible and user-friendly;
-- [[ai-therapist-competition-serena-1.PNG | screenshot 1]], [[ai-therapist-competition-serena-2.PNG | screenshot 2]]
+
 
 #### **User testing**
 - used voice mode, female responded;
@@ -111,11 +111,11 @@ date_created: 2025-07-25 18:44
 	- Designed for therapists and coaches, Upheal provides AI-generated notes to help professionals stay present during sessions and save time, with full compliance to privacy standards .
 
 ---
-## Strategic Considerations for Your Project
+## Strategic Considerations for Our Project
 
 #### Differentiation
 
-While many platforms offer AI-driven mental health support, few combine realistic avatars with AI to simulate human-like psychotherapy sessions. Emphasizing this unique aspect can set your product apart.​
+While many platforms offer AI-driven mental health support, few combine realistic avatars with AI to simulate human-like psychotherapy sessions. Emphasizing this unique aspect can set our product apart.​
 
 #### Ethical Framework
 
@@ -127,12 +127,12 @@ Offering a freemium model can attract users from diverse backgrounds, including 
 
 #### Consortium Collaboration
 
-Partnering with academic institutions like the College of Electrical Engineering and Computing (FER) can enhance the AI component of your project, while collaboration with psychotherapy organizations ensures clinical validity.
+Partnering with academic institutions like the College of Electrical Engineering and Computing (FER) will enhance the AI component of our project, while collaboration with psychotherapy organizations ensures clinical validity.
 
 ---
 ## Preliminary Competitor Landscape – Early Read
 
-### What’s Wrong With the Others (based on your testing)
+### What’s Wrong With the Others (based on our testing)
 
 - **Low technical quality** (Serena crashes, UI flaws, bad UX);
 - **Gimmicky or paywall-heavy** (Earkick, Mindspa, etc.);
@@ -140,8 +140,8 @@ Partnering with academic institutions like the College of Electrical Engineering
 - **Emotional tone mismatches** — either _too cheerleadery_ or _too cold_;
 - **No meaningful escalation/triage path** – it’s all just self-service loops;
 
-That’s a field of lightweight tools pretending to be helpful. **You’re not building a toy.** You’re building a **therapeutic instrument**.
+That’s a field of lightweight tools pretending to be helpful. **We’re not building a toy.** We’re building a **therapeutic instrument**.
 
 ---
 ## Related
-[[02-ai-therapist-differentiation]]
+[Components vendors](04-ai-therapist-components-vendors.md)

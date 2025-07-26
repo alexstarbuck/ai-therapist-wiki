@@ -1,7 +1,7 @@
 ---
 id: definitions-dhaf-safety-rating
 slug: definitions-dhaf-safety-rating
-title: Definitions Dhaf Safety Rating
+title: Definitions - Dhaf Safety Rating
 sidebar_label: DHAF rating
 tags:
   - eu
@@ -10,11 +10,10 @@ parent:
 source: 
 date_created: 2025-07-25 18:48
 ---
-[← Back to MoC](/docs/)
+[← Back to MoC](./index.md)
 
 ---
 - Digital Health Assessment Framework: Make sure your Digital Health product meets US standards and regulatory requirements;
 
 ---
 ## Related
-[[03-ai-therapist-competition]]

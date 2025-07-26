@@ -1,7 +1,6 @@
 ---
 id: 99-ai-therapist-examples-dangers
-slug: 99-ai-therapist-examples-dangers
-title: Examples of Danger in AI therapy
+slug: example-dangers-ai-therapy
 sidebar_label: Dangers
 tags:
   - eu
@@ -10,7 +9,7 @@ parent:
 source: 
 date_created: 2025-07-25 18:47
 ---
-[← Back to MoC](/docs/)
+[← Back to MoC](./index.md)
 
 ---
 ## 1. CONTEXT
@@ -251,9 +250,8 @@ On osjeća sebe jako duboko.
 Ali tebe vidi više kao refleksiju problema nego kao osobu koja pati pokraj njega.
 
 ---
-
 ## 6. CONCLUSION
 Tremendous care must be taken when designing and developing our AI Psychotherapist assistant, in terms of guidance and in getting the proper context from the user. Not all people are equipped nor in a good / clear mental state, to really take a step back, objetvitely assess the situation, facts, conflict and their subjective emotions and feed all this objectively into the system.
 
 GPT is a mirror in the greatest sense of the word — it gives back exactly what is fed into it so... yeah. Great care must be taken to solve for this.
-### Related
+## Related
