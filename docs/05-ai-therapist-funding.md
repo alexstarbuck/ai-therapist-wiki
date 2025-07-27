@@ -28,4 +28,3 @@ date_created: '2025-07-26 13:20'
 
 ---
 ## Related
-[Examples of danger](/docs/example-dangers-ai-therapy)

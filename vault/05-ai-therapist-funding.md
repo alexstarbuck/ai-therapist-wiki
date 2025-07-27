@@ -28,4 +28,3 @@ date_created: 2025-07-26 13:20
 
 ---
 ## Related
-[Examples of danger](99-ai-therapist-examples-dangers.md)
