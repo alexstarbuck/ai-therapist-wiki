@@ -6,11 +6,11 @@ sidebar_label: Funding
 tags:
   - eu
   - gajger
-parent: null
-source: null
-date_created: '2025-07-26 13:20'
+parent: 
+source: 
+date_created: 2025-07-26 13:20
 ---
-[← Back to MoC](/docs/)
+[← Back to MoC](./index.md)
 
 ---
 ## EU Funding Program
@@ -28,4 +28,4 @@ date_created: '2025-07-26 13:20'
 
 ---
 ## Related
-[Examples of danger](/docs/example-dangers-ai-therapy)
+[Examples of danger](99-ai-therapist-examples-dangers.md)

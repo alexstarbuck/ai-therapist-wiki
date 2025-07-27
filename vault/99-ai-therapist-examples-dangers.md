@@ -5,11 +5,11 @@ sidebar_label: Dangers
 tags:
   - eu
   - gajger
-parent: null
-source: null
-date_created: '2025-07-25 18:47'
+parent: 
+source: 
+date_created: 2025-07-25 18:47
 ---
-[← Back to MoC](/docs/)
+[← Back to MoC](./index.md)
 
 ---
 ## 1. CONTEXT

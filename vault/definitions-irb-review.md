@@ -6,11 +6,11 @@ sidebar_label: IRB Review
 tags:
   - eu
   - gajger
-parent: null
-source: null
-date_created: '2025-07-25 18:49'
+parent: 
+source: 
+date_created: 2025-07-25 18:49
 ---
-[← Back to MoC](/docs/)
+[← Back to MoC](./index.md)
 
 ---
 

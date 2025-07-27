@@ -77,7 +77,7 @@ presets: [
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'AI Therapist Assistant Wiki',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -140,7 +140,7 @@ presets: [
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Zeraxo LLC. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
