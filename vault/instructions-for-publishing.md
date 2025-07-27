@@ -36,6 +36,7 @@ This is a standardized workflow for maintaining clean, publishable project wikis
 - Keep all content in Markdown format (`.md`);
 - Feel free to use `[[Wiki-Style]]` links here;
 - (also see #5 here below, regarding the concept of "*frontmatter*"!);
+- put attachment files into `/attachments` folder here, within the `vault/[project]/attachments` avoid spaces in names at all cost(!);
 
 ---
 ### 2. 🧱 Naming Conventions
@@ -59,18 +60,20 @@ To create a new public-facing wiki/project:
 
 1. Open Terminal;
 2. Navigate to `~/Documents/` and scaffold a Docusaurus site: `npx create-docusaurus@latest your-project-name classic`;
-3. Copy the `update-docs.js` file from your existing project: `cp ~/Documents/ai-therapist-wiki/update-docs.js ~/Documents/your-project-name/`;
-4. Edit `update-docs.js` in Vim or VS Code:
+3. Copy the `update-project-content.js` file from your existing project: `cp ~/Documents/ai-therapist-wiki/update-docs.js ~/Documents/your-project-name/`;
+4. Edit `update-project-content.js` in Vim or VS Code:
 	- Update paths to match your Obsidian vault and new Project folder .../docs/;
 	- This script:
-	     - **Copies** your Obsidian project's `docs/` folder to the Docusaurus `/docs/` folder;
-	     - **Rewrites internal links** from `./file.md` → `/docs/file`  which during build gets routed (replaced) with `/docs/slug`;
+	     - **Copies** your Obsidian vaults `project folder` untouched into Docusaurus `project folder/vault/` > anyone pulling the repo can use this as completely functional local Obsidian vault, with links, attachments and all;
+	     - **Copies** your Obsidian project's `/docs/` folder to the Docusaurus `/docs/` folder;
+	     - **Rewrites internal links** from `./file.md` → `/docs/file`  which during build gets routed (replaced) with `/docs/slug`, same thing for attachments' links;
+	     - Copies your vaults `/attachments/` into Docusaurus' project `/static/attachments` to be served;
 
 ---
 ### 5. ⚙️ Templating & MoC
 
-- Use the **Templater plugin** to insert standard frontmatter in new notes: `Ctrl + T` or `Ctrl + P` → Templater: Insert template;
-- Then run the template with `Ctrl + R`;
+- Use the **Templater plugin** to insert standard frontmatter in new notes: `Ctrl+T` or `Ctrl+P` → "Templater: Insert template";
+- Then run the template with `Ctrl+R`;
 - Your `index.md` (Map of Content) must:
 	- Be located at the root of the `docs/` directory;
 	- Have the following in its frontmatter:
@@ -85,39 +88,11 @@ To create a new public-facing wiki/project:
 - This will make it the **homepage** for your published project.
 
 ---
-### 6. ⚡ Generating the MoC Automatically
+### 6. ⚡ Generating the MoC (Index.md) Automatically
 
 - To avoid writing all internal links manually:
 	- Use the `generate-index-links` template (Templater);
-	- Insert with `Ctrl + T`, then run it with `Ctrl + R`
+	- Insert with `Ctrl+T`, then run it with `Ctrl+R`
 
 ---
-
 ✅ You’re now ready to sync, transform, and publish your project wiki to Docusaurus. Enjoy your static site with full Markdown control!
-
-
-
-"Old version"
-
-## Instructions for Obsidian > Docusaurus (publishing) pipeline
-
-1. **Writing**:
-	- Write notes here in Obsidian locally, as usual;
-2. **Nomenclature**:
-	- Name everything in kabob case (`this-is-an-example-name`);
-3. **Internal Links**:
-	- while writing, use wiki-style links for speed;
-	- then use Link replacement plug-in to change these into proper markdown links;
-		- Watch out! plug-in formats markdown links without initial ./;
-		- Script from the next step includes SED command, which takes this into consideration — works with both forms with and without ./ ;
-4. **Set up new project to be published**:
-	- Set up a project directory in `~/Documents/[project directory]` using terminal and Docusaurus commands;
-	- Into the root of that project, copy `update-docs.sh` file from `~/Documents/ai-therapist-wiki/update-docs.sh`;
-	- Open that file in Vim and edit the relevant path(s):
-		- Script essentially copies your local Obsidian files, from your vault into `~/Documents/[project-directory/docs/`) whish is a subdir from which content is served;
-		- All internal links within these copied files, need to be changed from Obsidian style `./file-to-link-to` into Docusaurus relative routes `/docs/file-to-link-to` (shell script does this automatically);
-5. **Peculiarities**:
-	- Moved towards standardized (and VERY useful!) "Templater plugin" style templates (remember: you insert the template `Ctrl+C` but you also have to "run" it `Ctrl+R`);
-	- For each new project (directory) which is going to be Docusaurus published, make sure there is an `index.md` file in the root AND that in the frontmatter (this header with "properties" in Obsidian YAML) `slug` is set to `/`;
-	- `index.md` will be your "homepage" for the project / notes wiki and hold the links towards all the other notes in that particular directory:
-		- these links, this MoC is painful to write manually, there is a template here called "generate-index-links"  > use that one (remember: you insert the template `Ctrl+C` but you also have to "run" it `Ctrl+R`);
