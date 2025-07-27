@@ -91,7 +91,7 @@ presets: [
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/alexstarbuck/',
             label: 'GitHub',
             position: 'right',
           },
@@ -135,7 +135,7 @@ presets: [
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/alexstarbuck/',
               },
             ],
           },
