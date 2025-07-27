@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkai_therapist_wiki=self.webpackChunkai_therapist_wiki||[]).push([[3287],{4048:a=>{a.exports=JSON.parse('{"tags":[{"label":"eu","permalink":"/ai-therapist-wiki/docs/tags/eu","count":10},{"label":"gajger","permalink":"/ai-therapist-wiki/docs/tags/gajger","count":10}]}')}}]);
