@@ -49,7 +49,7 @@ presets: [
 	docs: {
   		routeBasePath: 'docs',
   		sidebarPath: './sidebars.js',
-  	editUrl:'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+  	// editUrl:'https://github.com/alexstarbuck/ai-therapist-wiki/edit/master',
 	},
 
       blog: {
@@ -58,8 +58,7 @@ presets: [
           type: ['rss', 'atom'],
           xslt: true,
         },
-        editUrl:
-          'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // editUrl:'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         onInlineTags: 'warn',
         onInlineAuthors: 'warn',
         onUntruncatedBlogPosts: 'warn',
