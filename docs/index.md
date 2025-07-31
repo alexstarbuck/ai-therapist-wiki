@@ -12,7 +12,7 @@ date_created: '2025-07-25 18:50'
 ---
 # AI Therapist Assistant - Map of Content
 
-Welcome to the AI Therapist Assistant Wiki. Choose your poison:
+Welcome to the "AI Avatar Therapist Assistant" Wiki pages. Choose your poison:
 
 - [General Description](/docs/general-description)
 - [Differentiation](/docs/differentiation)

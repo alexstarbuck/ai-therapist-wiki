@@ -15,16 +15,18 @@ date_created: 2025-07-26 13:20
 ---
 ## EU Funding Program
 
-- [IRI S3](https://eufondovi.gov.hr/poziv/?id=23d4b78c-ac5a-480b-908e-362f39fe8992);
+- [IRI S3](https://eufondovi.gov.hr/poziv/?id=23d4b78c-ac5a-480b-908e-362f39fe8992) - funding program aimed at 2 segments fo product lifecycle:
+	- Research (TRL 2-4);
+	- Prototype development (TRL 5-8);
 
 ## Left to Clarify
 
-- determine the **intensity of our funding** (varies between 70 and 85% for MSP-s, depending on the consortium set-up, activities, etc.);
-- do the partners on the project, especially government owned ones, **contribute** to the "*own funding*" amount, how much, how and when;
+- Determine the intensity of potential funding available to us (varies between 70 and 85% for MSP-s, depending on the consortium set-up, activities, etc.);
+- Are partners able to contribute their own share, how, when, ...;
 
 ## Quirks to Watch out for
 
-- leading partner of the consortium needs to have at least 15% of the required funding amount in the separate account, dedicated to the project;
+- Leading partner of the consortium needs to have at least 15% of the required funding amount in the separate account, dedicated to the project;
 
 ---
 ## Related

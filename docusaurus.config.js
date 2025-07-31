@@ -41,6 +41,8 @@ const config = {
     locales: ['en'],
   },
 
+trailingSlash: false, // Add this line to avoid the GitHub Pages warning
+
 presets: [
   [
     'classic',
