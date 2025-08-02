@@ -51,6 +51,8 @@ presets: [
 	docs: {
   		routeBasePath: 'docs',
   		sidebarPath: './sidebars.js',
+		showLastUpdateAuthor: true,
+  		showLastUpdateTime: true
   	// editUrl:'https://github.com/alexstarbuck/ai-therapist-wiki/edit/master',
 	},
 
@@ -80,7 +82,7 @@ presets: [
       navbar: {
         title: 'Home',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'AI Therapist Logo',
           src: 'img/logo.svg',
         },
         items: [

@@ -2,7 +2,7 @@
 id: index
 slug: /
 title: AI Therapist Assistant - Wiki
-sidebar_label: index
+sidebar_label: Index
 tags:
   - eu
   - gajger
