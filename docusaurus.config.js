@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AI Therapist Assistant Wiki',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Therapy is cool.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -78,7 +78,7 @@ presets: [
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'AI Therapist Assistant Wiki',
+        title: 'Home',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -105,7 +105,7 @@ presets: [
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Wiki Pages',
                 to: '/docs/',
               },
             ],
@@ -114,16 +114,16 @@ presets: [
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@alexander.starbuck',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/zeraxo.agency/?hl=en',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Web',
+                href: 'https://zeraxo.com',
               },
             ],
           },
@@ -141,7 +141,7 @@ presets: [
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Zeraxo LLC. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} <a href="https://zeraxo.com" target="_blank" rel="noopener noreferrer">Zeraxo LLC</a>. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

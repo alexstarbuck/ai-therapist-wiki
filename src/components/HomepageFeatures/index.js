@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Emotionally Intelligent',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+	Built to recognize and respond to human emotions — beyond just text.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'AI-Powered, Human-Centered',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+	Blending cutting-edge AI with principles of psychotherapy and compassion.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'For the Inner Journey',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+	Designed to support reflection, growth, and the everyday work of being human.
       </>
     ),
   },
