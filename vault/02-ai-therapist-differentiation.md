@@ -10,9 +10,7 @@ parent:
 source: 
 date_created: 2025-07-25 18:35
 ---
-[← Back to MoC](./index.md)
 
----
 ## Current Landscape: What the Literature Tells Us
 
 Most current AI mental health tools fall into one of the following categories:
@@ -95,7 +93,3 @@ YES — if, and only if:
 This would push our platform into the realm of **multimodal therapy assistance**, which **no major player has executed well yet** — especially in a **regulated, institutionally piloted framework**.
 
 That’s where our uniqueness lies.
-
----
-## Related
-[Competition](03-ai-therapist-competition.md)

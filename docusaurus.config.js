@@ -108,7 +108,7 @@ presets: [
             items: [
               {
                 label: 'Wiki Pages',
-                to: '/docs/',
+                to: '/docs/intro',
               },
             ],
           },

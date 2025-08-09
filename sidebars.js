@@ -2,8 +2,8 @@ const sidebars = {
   sidebar: [
     {
       type: 'doc',
-      id: 'index',
-      label: 'INDEX', // Will show "INDEX" in the sidebar
+      id: 'intro',
+      label: 'Intro', // Will show "INDEX" in the sidebar
     },
     {
       type: 'category',

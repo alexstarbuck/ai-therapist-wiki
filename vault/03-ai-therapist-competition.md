@@ -10,9 +10,7 @@ parent:
 source: 
 date_created: 2025-07-26 13:13
 ---
-[← Back to MoC](./index.md)
 
----
 ## AI-Powered Mental Health Platforms
 
 ### [**Woebot Health**](https://woebothealth.com/)
@@ -132,14 +130,10 @@ Partnering with academic institutions like the College of Electrical Engineering
 
 ### What’s Wrong With the Others (based on our testing)
 
-- **Low technical quality** (Serena crashes, UI flaws, bad UX);
-- **Gimmicky or paywall-heavy** (Earkick, Mindspa, etc.);
-- **Chatbot-only** (Abby, Wysa, etc.) — no embodiment, no sensory channel;
-- **Emotional tone mismatches** — either _too cheerleadery_ or _too cold_;
-- **No meaningful escalation/triage path** – it’s all just self-service loops;
+- Low technical quality (Serena crashes, UI flaws, bad UX);
+- Gimmicky or paywall-heavy (Earkick, Mindspa, etc.);
+- Chatbot-only (Abby, Wysa, etc.) — no embodiment, no sensory channel;
+- Emotional tone mismatches — either _too cheerleadery_ or _too cold_;
+- No meaningful escalation/triage path – it’s all just self-service loops;
 
 That’s a field of lightweight tools pretending to be helpful. **We’re not building a toy.** We’re building a **therapeutic instrument**.
-
----
-## Related
-[Components vendors](04-ai-therapist-components-vendors.md)

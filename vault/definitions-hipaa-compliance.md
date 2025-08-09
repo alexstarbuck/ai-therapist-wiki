@@ -10,10 +10,6 @@ parent:
 source: 
 date_created: 2025-07-25 18:49
 ---
-[← Back to MoC](./index.md)
-
----
-
 HIPAA compliance refers to adhering to the rules and regulations outlined in the Health Insurance Portability and Accountability Act, primarily focusing on protecting sensitive patient health information. This involves implementing physical, network, and process security measures to safeguard Protected Health Information (PHI). Covered entities, like healthcare providers and health plans, and their business associates must comply with HIPAA rules to avoid penalties and legal repercussions. 
 
 Key aspects of HIPAA compliance include: 
@@ -33,6 +29,3 @@ Who needs to be HIPAA compliant? 
 
 - **Covered Entities:** Healthcare providers, health plans, and healthcare clearinghouses. 
 - **Business Associates:** Individuals or entities that create, receive, maintain, or transmit PHI on behalf of a covered entity.
-
----
-## Related

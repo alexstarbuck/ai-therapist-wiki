@@ -10,9 +10,7 @@ parent:
 source: 
 date_created: 2025-07-25 18:44
 ---
-[← Back to MoC](./index.md)
 
----
 ## Avatar as a Service
 
 1. [**HeyGen**](https://www.heygen.com/)
@@ -63,7 +61,3 @@ date_created: 2025-07-25 18:44
 - **Request demos or PoCs** from 1–2 providers (e.g., RAVATAR for real-time, HeyGen for rapid prototyping);
 - **Evaluate costs and integration effort**, including licensing, hosting, and data privacy obligations;
 - Once we choose a partner: **prototype an avatar-as-a-service flow**, hook in our NLP + therapy logic, and validate with our institutional partners (Faculty + Hospital);
-
----
-## Related
-[Funding](05-ai-therapist-funding.md)

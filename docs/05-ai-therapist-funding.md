@@ -10,9 +10,7 @@ parent: null
 source: null
 date_created: '2025-07-26 13:20'
 ---
-[← Back to MoC](/docs/)
 
----
 ## EU Funding Program
 
 - [IRI S3](https://eufondovi.gov.hr/poziv/?id=23d4b78c-ac5a-480b-908e-362f39fe8992) - funding program aimed at 2 segments fo product lifecycle:
@@ -27,6 +25,3 @@ date_created: '2025-07-26 13:20'
 ## Quirks to Watch out for
 
 - Leading partner of the consortium needs to have at least 15% of the required funding amount in the separate account, dedicated to the project;
-
----
-## Related

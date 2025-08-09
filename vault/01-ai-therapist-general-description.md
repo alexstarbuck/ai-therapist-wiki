@@ -10,9 +10,7 @@ parent:
 source: 
 date_created: 2025-07-25 18:35
 ---
-[← Back to MoC](./index.md)
 
----
 ## Overview
 
 **Working Title:** Virtual AI Psychotherapist assistant;
@@ -82,7 +80,3 @@ The platform is positioned not as a fully autonomous psychotherapist, but as a r
 - Stigma and cultural barriers in seeking mental health care;
 - Geographic and economic inequality in service accessibility;
 - Ethical and safety concerns around AI in mental health;
-
----
-## Related
-[Differentiation](02-ai-therapist-differentiation.md)

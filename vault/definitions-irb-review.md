@@ -10,10 +10,6 @@ parent:
 source: 
 date_created: 2025-07-25 18:49
 ---
-[← Back to MoC](./index.md)
-
----
-
 An IRB (Institutional Review Board) review is a process where a committee reviews research proposals involving human subjects to ensure the research is ethical and protects participants' rights and welfare. The IRB assesses the ethical implications, potential risks and benefits, and informed consent procedures of the research. 
 
 Key aspects of IRB review:
@@ -35,6 +31,3 @@ Key aspects of IRB review:
     
 - **Key Considerations:**
     When reviewing a proposal, IRBs assess the risk/benefit ratio, subject selection, informed consent process, and overall ethical conduct of the research.
-
----
-## Related

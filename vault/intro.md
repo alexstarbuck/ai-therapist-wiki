@@ -1,6 +1,5 @@
 ---
-id: index
-slug: /
+id: intro
 title: AI Therapist Assistant - Wiki
 sidebar_label: Index
 tags:

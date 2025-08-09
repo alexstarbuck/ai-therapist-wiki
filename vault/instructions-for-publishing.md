@@ -10,9 +10,7 @@ parent:
 source: 
 date_created: 2025-07-25 18:51
 ---
-[← Back to MoC](./index.md)
 
----
 ## VERY high level explanation
 
 | Tool                 | Purpose                                                                   |
@@ -27,16 +25,16 @@ date_created: 2025-07-25 18:51
 
 ## Obsidian → GitHub Pages (via Docusaurus) Publishing Pipeline
 
-This is a standardized workflow for maintaining clean, publishable project wikis from within Obsidian.
+This is a standardized workflow for maintaining clean, publishable project Wikis from within Obsidian.
 
 ---
-### 1. ✍️ Writing Notes
+### 1. ✍️ Writing the Notes
 
-- Write as usual in Obsidian, within your vault;
-- Keep all content in Markdown format (`.md`);
-- Feel free to use `[[Wiki-Style]]` links here;
-- (also see #5 here below, regarding the concept of "*frontmatter*"!);
-- put attachment files into `/attachments` folder here, within the `vault/[project]/attachments` avoid spaces in names at all cost(!);
+- Write in Obsidian, as usual, within your vault;
+- Keep all content in proper Markdown format `.md`;
+- Feel free to use `[Wiki-Style](Wiki-Style)` links here;
+	- (see #5 here below, regarding the concept of "*frontmatter*"!);
+- If any attachment files, keep them in an `/attachments` folder WITHIN the project root, NOT in a global vault's `/attachments` folder;
 
 ---
 ### 2. 🧱 Naming Conventions
@@ -48,26 +46,28 @@ This is a standardized workflow for maintaining clean, publishable project wikis
 ---
 ### 3. 🔗 Internal Linking
 
-- While writing, use **wiki-style links** (`[[filename]]`) for speed;
+- While writing, use **wiki-style links** (`[filename](filename)`) for speed;
 - Before publishing:
-	- Use the **Link Converter plugin** to turn wiki links into Markdown format: `[Label](./filename.md)`;
-	- ⚠️ Obsidian’s plugin may omit the `./` — that's OK, the `update-docs.js` script will handle both variants;
+	- Run the **Link Converter plugin** to turn wiki links into Markdown format: `[Label](./filename.md)` > safe to choose vault-wide option, let it replace all links;
+	- ⚠️ Obsidian’s plugin may omit the `./` — that's OK, the `update-project-content.js` script will handle both variants;
 
 ---
 ### 4. 📂 Project Setup
 
-To create a new public-facing wiki/project:
+To create a new public-facing wiki/project from local vault folder:
 
 1. Open Terminal;
-2. Navigate to `~/Documents/` and scaffold a Docusaurus site: `npx create-docusaurus@latest your-project-name classic`;
-3. Copy the `update-project-content.js` file from your existing project: `cp ~/Documents/ai-therapist-wiki/update-docs.js ~/Documents/your-project-name/`;
-4. Edit `update-project-content.js` in Vim or VS Code:
-	- Update paths to match your Obsidian vault and new Project folder .../docs/;
+2. Navigate to `~/Documents/` and scaffold a Docusaurus site:
+	- `npx create-docusaurus@latest [your-project-name] classic`;
+3. Copy the `update-project-content.js` script from an existing project "AI Therapist Assistant":
+	- `cp ~/Documents/ai-therapist-wiki/update-project-content.js ~/Documents/[your-project-root]/`;
+4. Edit `update-project-content.js`:
+	- Update paths to match your Obsidian vault and new Project folder's `.../docs/`;
 	- This script:
-	     - **Copies** your Obsidian vaults `project folder` untouched into Docusaurus `project folder/vault/` > anyone pulling the repo can use this as completely functional local Obsidian vault, with links, attachments and all;
-	     - **Copies** your Obsidian project's `/docs/` folder to the Docusaurus `/docs/` folder;
-	     - **Rewrites internal links** from `./file.md` → `/docs/file`  which during build gets routed (replaced) with `/docs/slug`, same thing for attachments' links;
-	     - Copies your vaults `/attachments/` into Docusaurus' project `/static/attachments` to be served;
+	     - **Copies** Obsidian vault's `project folder` untouched into Docusaurus `project folder/vault/` > anyone pulling the repo can later "rebuild" this as their own, completely functional, local Obsidian vault, with links, attachments and all;
+	     - **Copies** Obsidian project's `/docs/` folder to the Docusaurus `/docs/` folder;
+	     - **Rewrites internal links** from `./file.md` → `/docs/file` , which during build gets routed (replaced) with `/docs/slug`, same for attachments' links as well;
+	     - Copies vaults `/attachments/` into Docusaurus' project `/static/attachments` to be served once deployed to web;
 
 ---
 ### 5. ⚙️ Templating & MoC
@@ -77,20 +77,21 @@ To create a new public-facing wiki/project:
 - Your `index.md` (Map of Content) must:
 	- Be located at the root of the `docs/` directory;
 	- Have the following in its frontmatter:
-    ```yaml
+    ```
     ---
     id: index
-    title: Project Overview
-    sidebar_label: MoC
+    title: [whatever]
+    sidebar_label: Index
     slug: /
     ---
     ```
-- This will make it the **homepage** for your published project.
+	- This will make it the **homepage** for your published project;
+	- `id` MUST be the exact same as the "filename.md", `slug` MUST be "/";
 
 ---
 ### 6. ⚡ Generating the MoC (Index.md) Automatically
 
-- To avoid writing all internal links manually:
+- To avoid compiling all internal links here manually:
 	- Use the `generate-index-links` template (Templater);
 	- Insert with `Ctrl+T`, then run it with `Ctrl+R`
 
