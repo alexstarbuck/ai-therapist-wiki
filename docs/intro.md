@@ -5,20 +5,20 @@ sidebar_label: Index
 tags:
   - eu
   - gajger
-parent: null
-source: null
-date_created: '2025-07-25 18:50'
+parent: 
+source: 
+date_created: 2025-07-25 18:50
 ---
 # AI Therapist Assistant - Map of Content
 
 Welcome to the "AI Avatar Therapist Assistant" Wiki pages. Choose your poison:
 
-- [General Description](/docs/general-description)
-- [Differentiation](/docs/differentiation)
-- [Competition](/docs/competition)
-- [Components Vendors](/docs/components-vendors)
-- [Funding](/docs/funding)
-- [Definitions - Dhaf Safety Rating](/docs/definitions-dhaf-safety-rating)
-- [Definitions - HIPAA Compliance](/docs/definitions-hipaa-compliance)
-- [Definitions - IRB Review](/docs/definitions-irb-review)
-- [Instructions For Publishing](/docs/instructions-for-publishing)
+- [General Description](./01-ai-therapist-general-description.md)
+- [Differentiation](./02-ai-therapist-differentiation.md)
+- [Competition](./03-ai-therapist-competition.md)
+- [Components Vendors](./04-ai-therapist-components-vendors.md)
+- [Funding](./05-ai-therapist-funding.md)
+- [Definitions - Dhaf Safety Rating](./definitions-dhaf-safety-rating.md)
+- [Definitions - HIPAA Compliance](./definitions-hipaa-compliance.md)
+- [Definitions - IRB Review](./definitions-irb-review.md)
+- [Instructions For Publishing](./instructions-for-publishing.md)

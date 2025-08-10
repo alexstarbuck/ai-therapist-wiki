@@ -6,9 +6,9 @@ sidebar_label: Competition
 tags:
   - eu
   - gajger
-parent: null
-source: null
-date_created: '2025-07-26 13:13'
+parent: 
+source: 
+date_created: 2025-07-26 13:13
 ---
 
 ## AI-Powered Mental Health Platforms
@@ -22,9 +22,9 @@ date_created: '2025-07-26 13:13'
 		- "*Too often, people don’t feel supported—because they aren’t*";
 		- Detects potentially "concerning" language;
 		- Privacy and safety:
-			- [definitions-hipaa-compliance](/docs/definitions-hipaa-compliance) compliant;
-			- [definitions-irb-review](/docs/definitions-irb-review) for all clinical studies;
-			- [definitions-dhaf-safety-rating](/docs/definitions-dhaf-safety-rating) (ORCHA);
+			- [definitions-hipaa-compliance](definitions-hipaa-compliance.md) compliant;
+			- [definitions-irb-review](definitions-irb-review.md) for all clinical studies;
+			- [definitions-dhaf-safety-rating](definitions-dhaf-safety-rating.md) (ORCHA);
 			- Mozilla privacy rating;		
 ##### User testing
 - could not test, waiting list on the website;
@@ -43,7 +43,7 @@ date_created: '2025-07-26 13:13'
 - Proper startup, 2 people + a lot of advisors;
 - Funded by 2 VCs;
 - HEAVILY gamified, very low threshold of free features;
-- [screenshot 1](/attachments/ai-therapist-competition-earkick-1.PNG), [screenshot 2](/attachments/ai-therapist-competition-earkick-2.PNG), [screenshot 3](/attachments/ai-therapist-competition-earkick-3.PNG), [screenshot 4](/attachments/ai-therapist-competition-earkick-4.PNG), [screenshot 5](/attachments/ai-therapist-competition-earkick-5.PNG);
+- [screenshot 1](/attachments/../attachments/ai-therapist-competition-earkick-1.PNG), [screenshot 2](/attachments/../attachments/ai-therapist-competition-earkick-2.PNG), [screenshot 3](/attachments/../attachments/ai-therapist-competition-earkick-3.PNG), [screenshot 4](/attachments/../attachments/ai-therapist-competition-earkick-4.PNG), [screenshot 5](/attachments/../attachments/ai-therapist-competition-earkick-5.PNG);
 ##### User testing
 - could not test, waiting list on the website;
 
@@ -52,7 +52,7 @@ date_created: '2025-07-26 13:13'
 - Mobile app, in-app purchases;
 - Uses evidence-based CBT techniques to provide 24/7 mental health support;
 - Highly accessible and user-friendly;
-- [screenshot 1](/attachments/ai-therapist-competition-serena-1.PNG), [screenshot 2](/attachments/ai-therapist-competition-serena-2.PNG);
+- [screenshot 1](/attachments/../attachments/ai-therapist-competition-serena-1.PNG), [screenshot 2](/attachments/../attachments/ai-therapist-competition-serena-2.PNG);
 #### **User testing**
 - used voice mode, female responded;
 - kinda robotic in her dynamics, "sterile" in responses when compared with Abby, ChatGPT and others;

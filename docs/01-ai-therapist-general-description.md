@@ -6,9 +6,9 @@ sidebar_label: General desc.
 tags:
   - eu
   - gajger
-parent: null
-source: null
-date_created: '2025-07-25 18:35'
+parent: 
+source: 
+date_created: 2025-07-25 18:35
 ---
 
 ## Overview

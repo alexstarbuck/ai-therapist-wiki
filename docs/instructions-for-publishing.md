@@ -6,9 +6,9 @@ sidebar_label: Publishing instructions
 tags:
   - eu
   - gajger
-parent: null
-source: null
-date_created: '2025-07-25 18:51'
+parent: 
+source: 
+date_created: 2025-07-25 18:51
 ---
 
 ## VERY high level explanation

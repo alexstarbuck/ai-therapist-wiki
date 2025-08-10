@@ -6,9 +6,9 @@ sidebar_label: HIPAA Compliance
 tags:
   - eu
   - gajger
-parent: null
-source: null
-date_created: '2025-07-25 18:49'
+parent: 
+source: 
+date_created: 2025-07-25 18:49
 ---
 HIPAA compliance refers to adhering to the rules and regulations outlined in the Health Insurance Portability and Accountability Act, primarily focusing on protecting sensitive patient health information. This involves implementing physical, network, and process security measures to safeguard Protected Health Information (PHI). Covered entities, like healthcare providers and health plans, and their business associates must comply with HIPAA rules to avoid penalties and legal repercussions. 
 

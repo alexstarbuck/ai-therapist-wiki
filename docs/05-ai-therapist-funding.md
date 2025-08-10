@@ -6,9 +6,9 @@ sidebar_label: Funding
 tags:
   - eu
   - gajger
-parent: null
-source: null
-date_created: '2025-07-26 13:20'
+parent: 
+source: 
+date_created: 2025-07-26 13:20
 ---
 
 ## EU Funding Program
