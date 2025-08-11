@@ -1,14 +1,11 @@
 ---
-id: 03-ai-therapist-competition
-slug: competition
+# id: 03-ai-therapist-competition
+# slug: competition
 title: Competition
 sidebar_label: Competition
-tags:
-  - eu
-  - gajger
-parent: 
-source: 
-date_created: 2025-07-26 13:13
+# sidebar_position:
+tags: [eu, gajger]
+date_created: 2025-08-11 09:57
 ---
 
 ## AI-Powered Mental Health Platforms

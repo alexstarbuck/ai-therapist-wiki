@@ -1,14 +1,11 @@
 ---
-id: 04-ai-therapist-components-vendors
-slug: components-vendors
+# id: 04-ai-therapist-components-vendors
+# slug: components-vendors
 title: Components Vendors
 sidebar_label: Components vendors
-tags:
-  - eu
-  - gajger
-parent: 
-source: 
-date_created: 2025-07-25 18:44
+# sidebar_position:
+tags: [eu, gajger]
+date_created: 2025-08-11 09:57
 ---
 
 ## Avatar as a Service

@@ -1,14 +1,11 @@
 ---
-id: 05-ai-therapist-funding
-slug: funding
+# id: 05-ai-therapist-funding
+# slug: funding
 title: Funding
 sidebar_label: Funding
-tags:
-  - eu
-  - gajger
-parent: 
-source: 
-date_created: 2025-07-26 13:20
+# sidebar_position:
+tags: [eu, gajger]
+date_created: 2025-08-11 09:57
 ---
 
 ## EU Funding Program

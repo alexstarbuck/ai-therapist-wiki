@@ -1,14 +1,11 @@
 ---
-id: 02-ai-therapist-differentiation
-slug: differentiation
+# id: 02-ai-therapist-differentiation
+# slug: differentiation
 title: Differentiation
 sidebar_label: Differentiation
-tags:
-  - eu
-  - gajger
-parent: 
-source: 
-date_created: 2025-07-25 18:35
+# sidebar_position:
+tags: [eu, gajger]
+date_created: 2025-08-11 09:57
 ---
 
 ## Current Landscape: What the Literature Tells Us

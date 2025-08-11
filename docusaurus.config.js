@@ -88,7 +88,7 @@ presets: [
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'sidebar',
+            sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Wiki',
           },

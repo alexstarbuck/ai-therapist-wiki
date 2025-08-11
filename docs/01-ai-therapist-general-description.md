@@ -1,15 +1,13 @@
 ---
-id: 01-ai-therapist-general-description
-slug: general-description
-title: General Description
+# id: 01-ai-therapist-general-description
+# slug: 01-ai-therapist-general-description
+title: Ai Therapist - General Description
 sidebar_label: General desc.
-tags:
-  - eu
-  - gajger
-parent: 
-source: 
-date_created: 2025-07-25 18:35
+# sidebar_position:
+tags: [eu, gajger]
+date_created: 2025-08-11 09:57
 ---
+
 
 ## Overview
 
