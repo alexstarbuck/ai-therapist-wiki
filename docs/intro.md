@@ -18,4 +18,4 @@ Welcome to the "AI Avatar Therapist Assistant" Wiki pages. Choose your poison:
 - [Definitions - Dhaf Safety Rating](./definitions/dhaf-safety-rating.md)
 - [Definitions - HIPAA Compliance](./definitions/hipaa-compliance.md)
 - [Definitions - IRB Review](./definitions/irb-review.md)
-- [instructions-for-publishing](instructions-for-publishing.md)
+- [Publishing Instructions](instructions-for-publishing.md)

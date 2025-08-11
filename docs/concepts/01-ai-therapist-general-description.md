@@ -30,6 +30,7 @@ The service will provide emotionally intelligent, conversational mental health s
 ## Consortium (proposed)
 
 - **Zeraxo d.o.o.** – Project coordinator and lead technical partner (software development, UX, AI integration);
+- **Društvo za Psihološku pomoć**;
 - Faculty of Humanities and Social Sciences, University of Zagreb – **Department of Psychology** (psychology expertise, methodology design, validation studies);
 - **Psychiatric Clinic Vrapče** – Clinical partner (clinical oversight, escalation protocols, pilot testing, ethics board);
 ---

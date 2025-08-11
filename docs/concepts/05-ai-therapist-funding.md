@@ -17,7 +17,7 @@ date_created: 2025-08-11 09:57
 ## Left to Clarify
 
 - Determine the intensity of potential funding available to us (varies between 70 and 85% for MSP-s, depending on the consortium set-up, activities, etc.);
-- Are partners able to contribute their own share, how, when, ...;
+- How will partners contribute their own share, when, ...;
 
 ## Quirks to Watch out for
 
