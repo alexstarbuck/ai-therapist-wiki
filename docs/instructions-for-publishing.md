@@ -3,7 +3,7 @@
 # slug: instructions-for-publishing
 title: Instructions For Publishing
 sidebar_label: Publishing instructions
-# sidebar_position:
+sidebar_position: 4
 tags: [eu, gajger]
 date_created: 2025-08-11 09:57
 ---

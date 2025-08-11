@@ -19,9 +19,9 @@ date_created: 2025-08-11 09:57
 		- "*Too often, people don’t feel supported—because they aren’t*";
 		- Detects potentially "concerning" language;
 		- Privacy and safety:
-			- [definitions-hipaa-compliance](definitions-hipaa-compliance.md) compliant;
-			- [definitions-irb-review](definitions-irb-review.md) for all clinical studies;
-			- [definitions-dhaf-safety-rating](definitions-dhaf-safety-rating.md) (ORCHA);
+			- [hipaa-compliance](definitions/hipaa-compliance.md) compliant;
+			- [irb-review](definitions/irb-review.md) for all clinical studies;
+			- [dhaf-safety-rating](definitions/dhaf-safety-rating.md) (ORCHA);
 			- Mozilla privacy rating;		
 ##### User testing
 - could not test, waiting list on the website;

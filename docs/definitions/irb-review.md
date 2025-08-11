@@ -1,10 +1,9 @@
 ---
-# id: definitions-irb-review
-# slug: definitions-irb-review
-title: Definitions - IRB Review
+title: IRB Review
 sidebar_label: IRB Review
-# sidebar_position:
-tags: [eu, gajger]
+tags:
+  - eu
+  - gajger
 date_created: 2025-08-11 09:57
 ---
 An IRB (Institutional Review Board) review is a process where a committee reviews research proposals involving human subjects to ensure the research is ethical and protects participants' rights and welfare. The IRB assesses the ethical implications, potential risks and benefits, and informed consent procedures of the research. 

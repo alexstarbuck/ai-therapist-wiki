@@ -1,10 +1,9 @@
 ---
-# id: definitions-hipaa-compliance
-# slug: definitions-hipaa-compliance
-title: Definitions - HIPAA Compliance
+title: HIPAA Compliance
 sidebar_label: HIPAA Compliance
-# sidebar_position:
-tags: [eu, gajger]
+tags:
+  - eu
+  - gajger
 date_created: 2025-08-11 09:57
 ---
 HIPAA compliance refers to adhering to the rules and regulations outlined in the Health Insurance Portability and Accountability Act, primarily focusing on protecting sensitive patient health information. This involves implementing physical, network, and process security measures to safeguard Protected Health Information (PHI). Covered entities, like healthcare providers and health plans, and their business associates must comply with HIPAA rules to avoid penalties and legal repercussions. 
