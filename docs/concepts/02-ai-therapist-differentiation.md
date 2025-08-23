@@ -7,7 +7,6 @@ sidebar_label: Differentiation
 tags: [eu, gajger]
 date_created: 2025-08-11 09:57
 ---
-
 ## Current Landscape: What the Literature Tells Us
 
 Most current AI mental health tools fall into one of the following categories:
@@ -64,7 +63,7 @@ We are **narrowing the funnel**, focusing on a **real-world, institutionally sup
 - Plays directly into the **EU's funding priorities** around education, digital health, and social cohesion;
 
 ---
-## Why We Still Have a Shot Despite Competition
+## We Have a Shot Despite Competition
 
 Yes, the field is heating up. But so did streaming music before Spotify, ride sharing before Uber, AI writing before ChatGPT. And still — the right mix _wins_.
 
@@ -80,7 +79,7 @@ The difference isn’t in being _first_ — it’s in being _right_ and _real_. 
 
 ## Should We Include a Camera
 
-YES — if, and only if:
+YES — but only if:
 
 1. It's opt-in and transparent;
 2. It serves a clear clinical/therapeutic goal (e.g. emotion detection, withdrawal cues, stress markers);

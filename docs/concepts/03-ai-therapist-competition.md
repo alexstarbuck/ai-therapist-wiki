@@ -7,7 +7,6 @@ sidebar_label: Competition
 tags: [eu, gajger]
 date_created: 2025-08-11 09:57
 ---
-
 ## AI-Powered Mental Health Platforms
 
 ### [**Woebot Health**](https://woebothealth.com/)

@@ -19,3 +19,4 @@ Welcome to the "AI Avatar Therapist Assistant" Wiki pages. Choose your poison:
 - [Definitions - HIPAA Compliance](./definitions/hipaa-compliance.md)
 - [Definitions - IRB Review](./definitions/irb-review.md)
 - [Publishing Instructions](instructions-for-publishing.md)
+- [GreenGreen Advisory Sharepoint shared folder](https://greengreenhr.sharepoint.com/Zajednicki%20dokumenti/Forms/AllItems.aspx?id=%2FZajednicki%20dokumenti%2F2%2E1%2E%20EU%20FONDOVI%202024%2F33%2E%20IRI%20S3%2F02%2E%20Klijenti%2F6%2E%20ZERAXO%20d%2Eo%2Eo%2FDijeljeni%20folder%5FIRI%20S3%5FZeraxo%20d%2Eo%2Eo&p=true&ga=1);

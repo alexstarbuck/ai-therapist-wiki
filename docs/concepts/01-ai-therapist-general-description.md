@@ -7,12 +7,10 @@ sidebar_label: General desc.
 tags: [eu, gajger]
 date_created: 2025-08-11 09:57
 ---
-
-
 ## Overview
 
-**Working Title:** Virtual AI Psychotherapist assistant;
-**Funding Instrument:** EU Research and Development (IRI) – Croatia / EU Cohesion Policy
+**Working Title:** Virtual AI Psychotherapist assistant;  
+**Funding Instrument:** EU Research and Development ([IRI S3 - Povećanje razvoja novih proizvoda i usluga koji proizlaze iz aktivnosti istraživanja i razvoja](https://eufondovi.gov.hr/poziv/?id=23d4b78c-ac5a-480b-908e-362f39fe8992)) – Croatia / EU Cohesion Policy
 
 This project aims to develop a prototype of a virtual psychotherapy assistant, powered by advanced multimodal artificial intelligence, delivered through a photorealistic, emotionally intelligent avatar.
 
@@ -29,10 +27,10 @@ The service will provide emotionally intelligent, conversational mental health s
 ---
 ## Consortium (proposed)
 
-- **Zeraxo d.o.o.** – Project coordinator and lead technical partner (software development, UX, AI integration);
-- **Društvo za Psihološku pomoć**;
-- Faculty of Humanities and Social Sciences, University of Zagreb – **Department of Psychology** (psychology expertise, methodology design, validation studies);
-- **Psychiatric Clinic Vrapče** – Clinical partner (clinical oversight, escalation protocols, pilot testing, ethics board);
+- [**Zeraxo d.o.o.**](https://zeraxo.com) – Project coordinator and lead technical partner (software development, UX, AI integration);
+- [**Društvo za Psihološku pomoć**](https://dpp.hr/);
+- [**Department of Psychology**](https://psihologija.ffzg.unizg.hr/) - Faculty of Humanities and Social Sciences, University of Zagreb (psychology expertise, methodology design, validation studies);
+- [**Psychiatric Clinic Vrapče**](https://bolnica-vrapce.hr/) – Clinical partner (clinical oversight, escalation protocols, pilot testing, ethics board);
 ---
 ## Strategic Framing
 

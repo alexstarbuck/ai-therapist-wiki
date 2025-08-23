@@ -7,7 +7,6 @@ sidebar_label: Components vendors
 tags: [eu, gajger]
 date_created: 2025-08-11 09:57
 ---
-
 ## Avatar as a Service
 
 1. [**HeyGen**](https://www.heygen.com/)
