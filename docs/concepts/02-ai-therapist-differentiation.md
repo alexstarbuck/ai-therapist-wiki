@@ -53,9 +53,11 @@ Most current AI mental health tools fall into one of the following categories:
 - We offer **low-friction access** to psychological help in cultures or economies where professional therapy is out of reach. That’s a **massive global differentiator**, especially in underserved markets.
 
 ---
-## The Pivot Toward Triage + University Use Case
+## Triage + University Use Case
 
-We are **narrowing the funnel**, focusing on a **real-world, institutionally supported, and ethically stable use case** — student mental health triage. This:
+We are **narrowing the funnel**, focusing on a **real-world, institutionally supported, and ethically stable use case** — student mental health triage.
+
+This:
 
 - Gives us **institutional legitimacy** (Faculty + Hospital);
 - Positions the system as a **clinical support tool**, not an autonomous therapist;
@@ -63,7 +65,7 @@ We are **narrowing the funnel**, focusing on a **real-world, institutionally sup
 - Plays directly into the **EU's funding priorities** around education, digital health, and social cohesion;
 
 ---
-## We Have a Shot Despite Competition
+## A Shot Despite Competition
 
 Yes, the field is heating up. But so did streaming music before Spotify, ride sharing before Uber, AI writing before ChatGPT. And still — the right mix _wins_.
 
@@ -77,7 +79,7 @@ It’s about **mixing the right ingredients**:
 
 The difference isn’t in being _first_ — it’s in being _right_ and _real_. Especially in healthcare.
 
-## Should We Include a Camera
+## Inclusion of a Camera
 
 YES — but only if:
 
