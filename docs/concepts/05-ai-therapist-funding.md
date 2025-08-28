@@ -7,9 +7,9 @@ sidebar_label: Funding
 tags: [eu, gajger]
 date_created: 2025-08-11 09:57
 ---
-## EU Funding Program
+## Project funding — eKohezija EU
 
-- ([IRI S3 - Povećanje razvoja novih proizvoda i usluga koji proizlaze iz aktivnosti istraživanja i razvoja](https://eufondovi.gov.hr/poziv/?id=23d4b78c-ac5a-480b-908e-362f39fe8992)) - funding program aimed at 2 segments fo product lifecycle:
+- [IRI S3 - Povećanje razvoja novih proizvoda i usluga koji proizlaze iz aktivnosti istraživanja i razvoja](https://eufondovi.gov.hr/poziv/?id=23d4b78c-ac5a-480b-908e-362f39fe8992) - funding program aimed at 2 segments fo product lifecycle:
 	- Research (TRL 2-4);
 	- Prototype development (TRL 5-8);
 
@@ -17,7 +17,8 @@ date_created: 2025-08-11 09:57
 
 - Budgeting:
 	- Determine the intensity of potential funding available (varies between 70 and 85% for MSP-s, depending on the consortium set-up, activities, etc.);
-	- How the partners will contribute, their share, when, ...;
+	- Draft the budget;
+	- Partners contributions and budget share;
 
 ## Quirks to Watch out for
 

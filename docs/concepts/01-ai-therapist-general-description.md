@@ -6,14 +6,14 @@ tags:
   - gajger
 date_created: 2025-08-11 09:57
 ---
-## Let’s state the obvious, but powerful truth
+## Obvious, but powerful truth
 
 - **People are already using AI as a therapist.**  
 - But they’re doing it alone. Unseen. Unsupported.  
 - With tools never meant for it.  
 - And it’s only a matter of time before someone gets hurt — if it hasn’t happened already.
 
-## The problem isn’t that AI is being used for emotional support
+## The problem ISN'T that AI is being used for emotional support
 
 It’s that **it’s happening without safety nets**:
 
@@ -30,7 +30,7 @@ It’s that **it’s happening without safety nets**:
 > 
 > ***Our innovation**: A human-like interface (verbal, non-verbal, emotionally responsive) that helps individuals feel heard, builds rapport, and guides them toward the right care pathway — in a safe, evidence-informed, modular environment."*
 
-## Overview
+## Project Overview
 
 **Working Title:** AI Assistant for Psychological Assessment, Guidance, and Support;  
 
