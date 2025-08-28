@@ -1,11 +1,12 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * custom.css — drop-in
+ * Fonts are loaded via docusaurus.config.js -> stylesheets:
+ *   Source Sans 3 (body) + Lora (headings)
  */
 
-/* You can override the default Infima variables here. */
+/* ---------- Global variables ---------- */
 :root {
+  /* Brand colors (keep/change as you like) */
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -13,11 +14,32 @@
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
+
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  /* ---------- Typography (book-like) ---------- */
+  /* Body sans; headings serif */
+  --ifm-font-family-base: "Source Sans 3", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+  --ifm-heading-font-family: "Lora", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+
+  /* Slightly tighter rhythm than Infima defaults */
+  --ifm-font-size-base: 16.5px;
+  --ifm-line-height-base: 1.6;
+  --ifm-paragraph-margin-bottom: 0.8rem;
+
+  /* Headings sizing/metrics */
+  --ifm-heading-font-weight: 700;
+  --ifm-heading-line-height: 1.25;
+  --ifm-h1-font-size: 2.25rem;
+  --ifm-h2-font-size: 1.7rem;
+  --ifm-h3-font-size: 1.28rem;
+
+  /* Optional: compact list paragraph gap */
+  --ifm-list-paragraph-margin: 0.35rem;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark theme palette */
 [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
@@ -27,4 +49,87 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* ---------- Docs: book-like page ---------- */
+.theme-doc-markdown {
+  font-size: 1.02rem;          /* effective body size ≈16.3px */
+  max-width: 80ch;             /* narrow reading measure */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Serif headings with crisp spacing */
+.theme-doc-markdown h1,
+.theme-doc-markdown h2,
+.theme-doc-markdown h3 {
+  letter-spacing: -0.005em;
+  margin-top: 1.6rem;
+  margin-bottom: 0.6rem;
+}
+
+/* Slightly denser paragraph spacing */
+.theme-doc-markdown p {
+  margin-top: 0.2rem;
+}
+
+/* Blockquotes: subtle book margin + tint */
+.theme-doc-markdown blockquote {
+  border-left: 3px solid var(--ifm-color-emphasis-300);
+  padding: .25rem 1rem;
+  margin: 1rem 0;
+  font-style: italic;
+  background: var(--ifm-color-emphasis-100);
+}
+[data-theme='dark'] .theme-doc-markdown blockquote {
+  border-color: var(--ifm-color-emphasis-400);
+  background: #151a21;
+}
+
+/* Images: gentle rounding to feel editorial */
+.theme-doc-markdown img {
+  border-radius: 6px;
+}
+
+/* ---------- Tighter lists (override Infima) ---------- */
+:root {
+  --tight-list-margin: 0.3rem 0;    /* space around entire UL/OL */
+  --tight-li-gap: 0.22rem;          /* gap between consecutive LIs */
+  --tight-li-paragraph: 0.15rem;    /* <li><p>…</p></li> margins */
+}
+
+/* Space around lists */
+.theme-doc-markdown ul,
+.theme-doc-markdown ol {
+  margin: var(--tight-list-margin) !important;
+}
+
+/* Space between items */
+.theme-doc-markdown li {
+  margin: 0 !important;                          /* reset theme margins */
+  line-height: var(--ifm-line-height-base);      /* keep body line-height */
+}
+.theme-doc-markdown li + li {
+  margin-top: var(--tight-li-gap) !important;
+}
+
+/* If Markdown wrapped list text in <p>, tighten too */
+.theme-doc-markdown li > p {
+  margin: var(--tight-li-paragraph) 0 !important;
+}
+
+/* Nested lists: a touch of separation, still compact */
+.theme-doc-markdown li ul,
+.theme-doc-markdown li ol {
+  margin: 0.25rem 0 0.35rem 0 !important;
+}
+
+/* Lists directly after a heading: don't float too far down */
+.theme-doc-markdown h1 + ul,
+.theme-doc-markdown h2 + ul,
+.theme-doc-markdown h3 + ul,
+.theme-doc-markdown h1 + ol,
+.theme-doc-markdown h2 + ol,
+.theme-doc-markdown h3 + ol {
+  margin-top: 0.4rem !important;
 }

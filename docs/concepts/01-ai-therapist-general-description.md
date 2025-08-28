@@ -13,6 +13,7 @@ date_created: 2025-08-11 09:57
 - With tools never meant for it.  
 - And it’s only a matter of time before someone gets hurt — if it hasn’t happened already.
 
+---
 ## The problem ISN'T that AI is being used for emotional support
 
 It’s that **it’s happening without safety nets**:
