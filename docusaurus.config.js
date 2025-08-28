@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AI Therapist Assistant Wiki',
+  title: 'AI Assistant for Psychological Assessment, Guidance, and Support',
   tagline: 'Therapy is cool.',
   favicon: 'img/favicon.ico',
 
